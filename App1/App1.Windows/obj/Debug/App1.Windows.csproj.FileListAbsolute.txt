@@ -1,0 +1,156 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\App.g.i.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\App.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\MainPage.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\App.xaml
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\MainPage.xaml
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\App.xbf
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\MainPage.xbf
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\App.g.i.cs
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\App.g.cs
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\MainPage.g.cs
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\OpeningPage.g.i.cs
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\OpeningPage.g.cs
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\UnitSelection.g.i.cs
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\UnitSelection.g.cs
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\App.xaml
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\OpeningPage.xaml
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\App.xbf
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\OpeningPage.xbf
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\MainPage.xaml
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\UnitSelection.xaml
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\MainPage.xbf
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\UnitSelection.xbf
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\App.xbf
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\MainPage.xbf
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\OpeningPage.xbf
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\UnitSelection.xbf
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\App1.Windows.exe
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\App1.Windows.pdb
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\resources.pri
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\AppxManifest.xml
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\App1.Windows.build.appxrecipe
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\App1.Windows.exe
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\App1.Windows.pdb
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\priconfig.xml
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\layout.resfiles
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\resources.resfiles
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\pri.resfiles
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\qualifiers.txt
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\App.xbf
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\BuildTacSquad.xbf
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\MainPage.xbf
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\OpeningPage.xbf
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\UnitSelection.xbf
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\App1.Windows.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\App1.Windows.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\resources.pri
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\AppxManifest.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\App1.Windows.build.appxrecipe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\BuildTacSquad.g.i.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\BuildTacSquad.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\OpeningPage.g.i.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\OpeningPage.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\UnitSelection.g.i.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\UnitSelection.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\OpeningPage.xaml
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\UnitSelection.xaml
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\OpeningPage.xbf
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\UnitSelection.xbf
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\BuildTacSquad.xaml
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\BuildTacSquad.xbf
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\App1.Windows.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\App1.Windows.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\priconfig.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\layout.resfiles
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\resources.resfiles
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\pri.resfiles
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\qualifiers.txt
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\BuildTacSquad.xbf
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\BuildTacSquad.g.i.cs
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\BuildTacSquad.g.cs
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\BuildTacSquad.xaml
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\BuildTacSquad.xbf
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\SelectSavedArmy.xbf
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\SelectSavedArmy.g.i.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\SelectSavedArmy.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\SelectSavedArmy.xaml
+C:\Users\User\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\SelectSavedArmy.xbf
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\bin\Debug\SelectSavedArmy.xbf
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\SelectSavedArmy.g.i.cs
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\SelectSavedArmy.g.cs
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\SelectSavedArmy.xaml
+C:\Users\grant_000\Documents\Visual Studio 2015\Projects\DarkAngelsArmyBuilder\App1\App1.Windows\obj\Debug\SelectSavedArmy.xbf
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\App.xbf
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\BuildTacSquad.xbf
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\MainPage.xbf
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\OpeningPage.xbf
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\SelectSavedArmy.xbf
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\UnitSelection.xbf
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\App1.Windows.exe
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\App1.Windows.pdb
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\resources.pri
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\AppxManifest.xml
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\App1.Windows.build.appxrecipe
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\App.g.i.cs
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\BuildTacSquad.g.i.cs
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\BuildTacSquad.g.cs
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\MainPage.g.cs
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\OpeningPage.g.i.cs
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\OpeningPage.g.cs
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\SelectSavedArmy.g.i.cs
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\SelectSavedArmy.g.cs
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\UnitSelection.g.i.cs
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\UnitSelection.g.cs
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\App.xaml
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\BuildTacSquad.xaml
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\MainPage.xaml
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\OpeningPage.xaml
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\SelectSavedArmy.xaml
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\UnitSelection.xaml
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\App.xbf
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\BuildTacSquad.xbf
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\MainPage.xbf
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\OpeningPage.xbf
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\SelectSavedArmy.xbf
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\UnitSelection.xbf
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\App1.Windows.exe
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\App1.Windows.pdb
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\priconfig.xml
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\layout.resfiles
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\resources.resfiles
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\pri.resfiles
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\qualifiers.txt
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\ProjectArchitectures.txt

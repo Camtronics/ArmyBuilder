@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="App1.UnitSelection"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition Height="75"></RowDefinition>
+            <RowDefinition Height="300*"></RowDefinition>
+            <RowDefinition Height="150"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <TextBlock x:Name="txtUnits" HorizontalAlignment="Left" Margin="10,20,10,17" Grid.Row="1" TextWrapping="Wrap" 
+                   Text="Unit Types" Width="150" FontSize="32" RenderTransformOrigin="0.496,0.065"/>
+            <ComboBox x:Name="cboxUnitTypes" Width="300" Margin="10" Background="#FF285314" BorderBrush="#FFE2DEDE" Foreground="#FFE2DEDE" SelectionChanged="UnitTypeSelected"/>
+        </StackPanel>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" MaxHeight="450" Grid.Row="2" VerticalAlignment="Top">
+            <StackPanel x:Name="unitsStackPanel" Orientation="Vertical" Background="#FF080808" MinHeight="450">
+                <StackPanel.ChildrenTransitions>
+                    <TransitionCollection>
+                        <AddDeleteThemeTransition/>
+                    </TransitionCollection>
+                </StackPanel.ChildrenTransitions>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>

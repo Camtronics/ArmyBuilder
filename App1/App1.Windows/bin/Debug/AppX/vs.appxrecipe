@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>200R</Machine>
+    <WindowsUser>User</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ed5c68b8-edc2-447c-9030-61d23af16b67</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B7B8FA4E39A3B317E5524F876D060B9FE8205AA03835D56C23F7F53509E4442C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ed5c68b8-edc2-447c-9030-61d23af16b67_1.0.0.0_neutral__wr4cxcn9ewz6e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ed5c68b8-edc2-447c-9030-61d23af16b67_wr4cxcn9ewz6e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ed5c68b8-edc2-447c-9030-61d23af16b67</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=grant_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-05T19:46:18.349</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\App1.Windows.exe">
+      <PackagePath>App1.Windows.exe</PackagePath>
+      <Modified>2016-05-05T20:43:04.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\Assets\Add Button.png">
+      <PackagePath>Assets\Add Button.png</PackagePath>
+      <Modified>2016-05-05T19:46:18.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\Assets\Dark_Angels_Chapter_Icon.png">
+      <PackagePath>Assets\Dark_Angels_Chapter_Icon.png</PackagePath>
+      <Modified>2016-05-05T19:46:18.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\Assets\Half-Logo.png">
+      <PackagePath>Assets\Half-Logo.png</PackagePath>
+      <Modified>2016-05-05T19:46:18.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-05T19:46:18.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\Assets\Remove Button.png">
+      <PackagePath>Assets\Remove Button.png</PackagePath>
+      <Modified>2016-05-05T19:46:18.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-05T19:46:18.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-05T19:46:18.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-05T19:46:18.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\Assets\Dark_Angels_TacSquad.jpg">
+      <PackagePath>Assets\Dark_Angels_TacSquad.jpg</PackagePath>
+      <Modified>2016-05-05T19:46:18.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\Assets\Dark_Angel_Save_Screen.jpg">
+      <PackagePath>Assets\Dark_Angel_Save_Screen.jpg</PackagePath>
+      <Modified>2016-05-05T19:46:18.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml">
+      <PackagePath>App1.Windows.xr.xml</PackagePath>
+      <Modified>2016-05-05T19:46:18.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-05-05T20:43:04.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\BuildTacSquad.xbf">
+      <PackagePath>BuildTacSquad.xbf</PackagePath>
+      <Modified>2016-05-05T20:43:04.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-05-05T20:43:04.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\OpeningPage.xbf">
+      <PackagePath>OpeningPage.xbf</PackagePath>
+      <Modified>2016-05-05T20:43:04.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\SelectSavedArmy.xbf">
+      <PackagePath>SelectSavedArmy.xbf</PackagePath>
+      <Modified>2016-05-05T20:43:04.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\UnitSelection.xbf">
+      <PackagePath>UnitSelection.xbf</PackagePath>
+      <Modified>2016-05-05T20:43:04.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\Stuff For Porfolio LInk\ArmyBuilder\App1\App1.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-05T19:46:18.381</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,38 @@
+﻿<Page
+    x:Class="App1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="900"></RowDefinition>
+            <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition Height="150"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="txtPointsHeader" Margin="44,15,0,27" Grid.Row="0" TextWrapping="Wrap" Text="Points Value" FontSize="64" 
+                   d:LayoutOverrides="Height, TopPosition, BottomPosition" HorizontalAlignment="Left"/>
+        <TextBlock x:Name="txtArmyPoints" Margin="0,15,31,10" Grid.Row="0" TextWrapping="Wrap" Text="" HorizontalAlignment="Right" Width="329"
+                   d:LayoutOverrides="TopPosition, BottomPosition" FontSize="48" Foreground="#FFF01F1F"/>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="1" Margin="0,0,0,10">
+            <StackPanel x:Name="armyListPannel" Background="#FF211D1D" MinHeight="500">
+                <StackPanel.ChildrenTransitions>
+                    <TransitionCollection>
+                        <AddDeleteThemeTransition/>
+                    </TransitionCollection>
+                </StackPanel.ChildrenTransitions>
+            </StackPanel>
+        </ScrollViewer>
+        <Button x:ConnectionId='1' x:Name="btnAddUnit" Content="Add Unit" Margin="41,7,0,25" Grid.Row="2" VerticalAlignment="Stretch" Width="308" Background="#FF285314" BorderBrush="#FFE2DEDE" Foreground="#FFE2DEDE"                     FontSize="48"/>
+        <Button x:ConnectionId='2' x:Name="btnDeleteUnit" Content="Delete Unit" Margin="0,7,28,25" Grid.Row="2" VerticalAlignment="Stretch" Width="335" 
+                HorizontalAlignment="Right" Foreground="#FFE2DEDE" Background="#FFA40B0B" BorderBrush="#FFE2DEDE" FontSize="48" RenderTransformOrigin="0.815,0.612"                    />
+        <Button x:ConnectionId='3' x:Name="btnSaveArmy" Content="Make This Stored Army" Margin="101,25,97,40" Grid.Row="3" VerticalAlignment="Stretch" 
+                HorizontalAlignment="Stretch" Foreground="Black" BorderBrush="#FFE2DEDE" Background="#FFD1C80F" FontSize="48"                      d:LayoutOverrides="LeftPosition, RightPosition"/>
+
+    </Grid>
+</Page>
+

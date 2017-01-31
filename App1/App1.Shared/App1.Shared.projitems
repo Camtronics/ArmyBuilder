@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>ff09b941-9527-403c-8a60-98917194d092</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>App1</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Army.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HeavyWeapons.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MeleeWeapon.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)RangedWeapon.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SaveArmy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SpaceMarine.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SpaceMarineSgt.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SpecialWeapon.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Squad.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TacSquad.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Unit.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Weapon.cs" />
+  </ItemGroup>
+</Project>

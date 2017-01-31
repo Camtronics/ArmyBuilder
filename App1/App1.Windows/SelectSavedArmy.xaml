@@ -1,0 +1,53 @@
+﻿<Page
+    x:Class="App1.SelectSavedArmy"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="-2,0,2,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="500" />
+            <RowDefinition Height="100" />
+            <RowDefinition Height="75" />
+            <RowDefinition Height="500" />
+            <RowDefinition Height="150" />
+        </Grid.RowDefinitions>
+
+
+
+
+
+        <Image x:Name="image" Grid.Row="0"  Margin="-42,-62,-87,25" Source="Assets/Dark_Angel_Save_Screen.jpg" Grid.RowSpan="2"/>
+
+
+
+
+
+        <Rectangle Fill="#FF113C17" Margin="86,0,84,0" Grid.Row="1" Width="598" d:LayoutOverrides="VerticalAlignment"/>
+        <Image x:Name="imgHalfLeft" Margin="-5,-1,0,0" Source="Assets/Half-Logo.png" HorizontalAlignment="Left" Width="108" Grid.Row="1" d:LayoutOverrides="VerticalAlignment"/>
+        <Image x:Name="imgHalfLeft_Copy" Margin="0,1,-3,-1" Source="Assets/Half-Logo.png" HorizontalAlignment="Right" Width="157" Grid.Row="1" RenderTransformOrigin="0.5,0.5" d:LayoutOverrides="VerticalAlignment">
+            <Image.RenderTransform>
+                <CompositeTransform ScaleX="-1"/>
+            </Image.RenderTransform>
+        </Image>
+        <Button x:Name="button_Copy1" Content="Home" Margin="214,24,221,-3" Grid.Row="4" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Foreground="#FF113C17" Background="#FFE2DEDE" BorderBrush="#FF113C17" FontSize="29.333" BorderThickness="5" d:LayoutOverrides="VerticalAlignment, LeftPosition, RightPosition, TopPosition, BottomPosition" Tapped="GoHome"/>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="3" Margin="0,0,0,10" FontFamily="Gungsuh">
+            <StackPanel x:Name="unitsStackPanel" Orientation="Vertical">
+                <StackPanel.ChildrenTransitions>
+                    <TransitionCollection>
+                        <AddDeleteThemeTransition/>
+                    </TransitionCollection>
+                </StackPanel.ChildrenTransitions>
+            </StackPanel>
+        </ScrollViewer>
+        <TextBlock x:Name="txtDAABHeader" Margin="103,15,95,25" Grid.Row="1" TextWrapping="Wrap" Text="Last Finished Army" FontSize="53.333" FontFamily="Gungsuh" d:LayoutOverrides="VerticalAlignment, LeftPosition, RightPosition, TopPosition, BottomPosition"/>
+        <TextBlock x:Name="txtArmyPointsHeader" Margin="10,11,263,10" Grid.Row="2" TextWrapping="Wrap" Text="Army Points Total" FontSize="48" FontFamily="Gungsuh" d:LayoutOverrides="LeftPosition, RightPosition, TopPosition, BottomPosition"/>
+        <TextBlock x:Name="txtPointsValue" Margin="0,6,9,10" Grid.Row="2" TextWrapping="Wrap" Text="1000 pts" FontSize="53.333" HorizontalAlignment="Right" Width="245" d:LayoutOverrides="TopPosition, BottomPosition" FontFamily="Gungsuh"/>
+
+
+
+    </Grid>
+</Page>
